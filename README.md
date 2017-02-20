@@ -1,2 +1,2 @@
 # PhoneBook
-A phone registry for storing contacts
+Telephone registry web application
